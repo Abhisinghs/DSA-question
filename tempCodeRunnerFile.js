@@ -1,0 +1,3 @@
+arr.reduce((el,index)={
+
+// })
